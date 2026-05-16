@@ -1,25 +1,25 @@
 Algorithm,N,Success,Conflicts,Execution Time (s),Peak Memory Used (MB)
-Exhaustive DFS,10,True,0,0.0004,0.0007
-Greedy Hill Climbing,10,False,1,4.3335,0.0006
-Simulated Annealing,10,True,0,0.0629,0.0006
-Genetic Algorithm,10,True,0,0.0158,0.0542
+Exhaustive DFS,10,True,0,0.0017,0.0007
+Greedy Hill Climbing,10,False,1,12.5219,0.0006
+Simulated Annealing,10,True,0,0.185,0.0006
+Genetic Algorithm,10,True,0,0.0369,0.0564
 Exhaustive DFS,30,Infeasible,N/A,Timeout,N/A
-Greedy Hill Climbing,30,False,1,20.9291,0.0016
-Simulated Annealing,30,True,0,0.1788,0.0017
-Genetic Algorithm,30,True,0,14.5665,0.1151
+Greedy Hill Climbing,30,False,1,43.7978,0.0016
+Simulated Annealing,30,True,0,0.759,0.0017
+Genetic Algorithm,30,False,1,35.1648,0.1151
 Exhaustive DFS,50,Infeasible,N/A,Timeout,N/A
-Greedy Hill Climbing,50,False,3,50.9193,0.0027
-Simulated Annealing,50,True,0,1.7177,0.0027
-Genetic Algorithm,50,True,0,1.2795,0.1735
+Greedy Hill Climbing,50,False,3,107.2769,0.0027
+Simulated Annealing,50,True,0,1.7101,0.0027
+Genetic Algorithm,50,False,1,56.4646,0.1736
 Exhaustive DFS,100,Infeasible,N/A,Timeout,N/A
-Greedy Hill Climbing,100,False,3,182.4432,0.0053
-Simulated Annealing,100,False,3,2.959,0.0055
-Genetic Algorithm,100,False,1,66.2525,0.3197
+Greedy Hill Climbing,100,False,2,396.9449,0.0053
+Simulated Annealing,100,False,2,6.1157,0.0055
+Genetic Algorithm,100,False,1,147.0938,0.3198
 Exhaustive DFS,200,Infeasible,N/A,Timeout,N/A
 Greedy Hill Climbing,200,Too Slow,N/A,Skipped,N/A
-Simulated Annealing,200,False,12,6.4539,0.0107
+Simulated Annealing,200,False,9,14.7478,0.0107
 Genetic Algorithm,200,Not Tested,N/A,Skipped,N/A
 Exhaustive DFS,500,Infeasible,N/A,Timeout,N/A
 Greedy Hill Climbing,500,Too Slow,N/A,Skipped,N/A
-Simulated Annealing,500,False,50,108.6079,0.0453
+Simulated Annealing,500,False,51,215.8334,0.0449
 Genetic Algorithm,500,Not Tested,N/A,Skipped,N/A
